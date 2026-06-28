@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Harshal 👋
 
-<!--
-**harshalbors111-hub/harshalbors111-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔐 About Me
+- Cyber Security Enthusiast
+- Python Developer
+- Learning Ethical Hacking
+- Learning Web Security
+- Open Source Learner
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Python
+- HTML
+- CSS
+- JavaScript
+- Linux
+- Git & GitHub
+- Cyber Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects
+- Security Tools Hub
+- Website Security Scanner
+- Python Automation Tools
+
+## 🎯 Goals
+- Become a Cyber Security Professional
+- Build Advanced Security Tools
+- Contribute to Open Source Projects
+
+## 📚 Currently Learning
+- Web Security
+- Penetration Testing
+- Python Automation
+- Linux Administration
+
+## 📫 Connect With Me
+GitHub: @harshalbors111-hub
